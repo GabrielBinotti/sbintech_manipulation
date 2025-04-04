@@ -1,0 +1,20 @@
+{
+    "name": "sbintech/manipulation",
+    "description": "A lib to formatter money and date",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Binotti",
+            "email": "gabrielbinotti.dev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sbintech\\Manipulation\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
